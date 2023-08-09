@@ -1,0 +1,197 @@
+telusko
+
+blockchain is distributed ledger
+decentralized
+immutable
+
+hie - issues with it, not in some countries
+
+issues with centralized database: hospitals have access
+info blockage-what if some hospital does not wish to disclose that info
+data corruption-old info, wrong info
+needs commission for disclosing 
+
+solution: blockachain
+we have the access to my data, we own the data
+on decentralized internet
+
+
+diseases
+drugs
+
+product data from manufacturing to customer cannot be corrupted. each stage updates. as a customer we can make sure expiry, each stage
+
+_______________
+
+blockchain intersection between hope and hype
+
+blockchain in healthcare:
+
+perspective of patient
+
+it's trusted-cannot be accessed no backdoor access no tampering
+most up to date - updating, maintaining 
+no third party
+
+trusted + verified + shared
+___________
+
+frauds in traditional and blockchain
+identity theft
+improbable promises
+
+blockchain vs database
+
+no worry about replication - database
+
+large data sits elsewhere
+gdpr -permission key. what can I reveal, what to hide
+verify manage control 
+committed data implemented through hashing
+_______________
+https://www.youtube.com/watch?v=md0K6nGewTU
+
+healthcare: slowest industires who forgot to change
+vertical - growing very fast
+horizontal - internet blockachain and iot is not
+
+interoperability:
+the way different healthcare providers are able to share, search and query medical recordds
+
+1. indentifying patients - same patient data different hospitals + image saved infolder
+2. information blocking - policies, hospitals don't wanna lose patients
+
+private blockchain
+patients have control over their data
+we get request for whoever wants to access your data
+
+___________
+
+VERY NICEEEE
+https://www.youtube.com/watch?v=cPQd8cr2Wz0
+
+blockachain is set of technologies like a database
+data not saved in tables- saved in ledgers
+adds a line for any thing-create update etc
+uses cryptography
+
+not used immurable-tamer resistant, tamper evident
+
+offchain-stored elsewhere. pointer on the block
+onchain-stored with the hash on the block itself
+
+
+
+consensus mechanism:
+
+
+proof of work - uses lots of energy
+proof of stake - not much electricity, low latency
+proof of elapsed time -
+.
+.
+
+smart contracts:
+creates automation, accuracy, transparency, security, speed
+
+
+why blochchain?
+creates audit trail - 
+automatic dynamic consent - patient allows future specific uses of data
+(what type of info patient is comfortable sharing)
+enables granular protocol permsisions
+integrats electronic system: wearables, etc also integrated
+tracks drug or device supply chains - every step of the drug supply can be tracked to prevent counterfeir
+connects data for deep analytics - single source of data. then any complex analyses (no need for versioning)
+unique data privacy capabilities (see video)
+
+
+what are current use of blockchain in healthcare?
+
+Medical record system - estonia 2016
+
+
+what are regulatory approaches to blockchain?
+HIPAA, GDPR, ...
+
+
+
+
+____________
+Plurasight: blockchain-principles and practices
+
+financial and healthcare see benefits of private blockchain
+doesn't provide same security as public
+comapny decide who can read and verify blocks 
+very strict rules -useful for healthcare , finance etc
+
+
+hash - integrity
+hmac - integrity + authentication
+digital signature - authrntication + non-repudiation
+
+
+proof of work - number of 0s we want in the beginning
+mining means calculating nonce for the blocks
+nonce is used for making sure data is not tampered with(immutable)
+strngth in numbers-more people do the mining
+incrementing nonce in the (message+nonce) until we get 6 0s in the beginning of hash function
+
+
+maintaining consensus
+Proof of stake:
+if two nodes same time
+forks created. and longest chain wins -> orphan blocks. 
+processed again
+
+
+why do we need this?
+comes down to one word - trust
+one of the ig beneifts of blockchain is to get trust on the internet by using decentralization
+we've explored how traditiona; banking in business revolves around  having a central authority
+blockchain is a great way to centralize these companies so that they are policed and monitored by the participants in the blockchain instead of theat central authority
+
+
+healhthcare
+this is very important in industries like healthcare and finance wo have very strcit rules that they have to adhere to around how visible certain data is
+
+______________
+
+
+TO RESEARCH ABOUT:
+HIE
+GDPR
+
+
+_______
+
+The healthcare system is losing $300 billion each year in poor data integration
+
+blockchain would healthcare offer safe and secure system
+
+only be modified by 
+broadcast and verified on peer to peer information
+
+___________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
