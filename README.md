@@ -1,6 +1,6 @@
 #  Enabling Blockchain Architecture for Health information exchanges (HIE)
 
-### Publsihed Chapter [here]([https://www.researchgate.net/publication/356580460_Enabling_Blockchain_Architecture_for_Health_information_exchanges_HIE](https://www.sciencedirect.com/science/article/pii/B9780323994811000110)
+### Published Chapter [here](https://www.sciencedirect.com/science/article/pii/B9780323994811000110)
 ### Book Publication available [here](https://shop.elsevier.com/books/unleashing-the-potentials-of-blockchain-technology-for-healthcare-industries/das/978-0-323-99481-1)
 
 
